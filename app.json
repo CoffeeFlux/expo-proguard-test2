@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-proguard-test",
+    "slug": "expo-proguard-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
